@@ -6,5 +6,7 @@ body {
 }
 .info-section{
   border-bottom:1px solid;
+  border-block-end-style: groove;
+writing-mode: horizontal-tb;
 }
 
