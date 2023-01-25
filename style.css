@@ -6,28 +6,14 @@ body {
 }
 .info-section{
   border-bottom:1px solid;
-  border-block-end-style: groove;
-writing-mode: horizontal-tb;
 }
 
-.info-section{
-  border-bottom:1px solid;
-  border-block-end-style: groove;
-writing-mode: horizontal-tb;
-}
 
 .edu-section{
   border-top:1px solid;
+  border-bottom:1px solid;
 }
 
-.outer {
-  border: 2px solid red;
-  width: 300px;
-  display: contents;
-}
 
-.outer > div {
-  border: 1px solid green;
-}
 
 
