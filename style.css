@@ -16,6 +16,10 @@ writing-mode: horizontal-tb;
 writing-mode: horizontal-tb;
 }
 
+.edu-section{
+  border-top:1px solid;
+}
+
 .outer {
   border: 2px solid red;
   width: 300px;
