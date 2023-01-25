@@ -5,7 +5,8 @@ body {
   margin-left:20%,10%;
 }
 .info-section{
-  border-bottom:1px solid;
+  padding-left: 10px;
+  border-bottom:1px solid black;
 }
 
 
