@@ -4,17 +4,31 @@ body {
   Font-family: Arial, helvetica, sans-serif;
   margin-left:20%,10%;
 }
+
+italic{
+  font-style: italic;
+}
+
 .info-section{
-  padding-left: 10px;
   border-bottom:1px solid black;
+  padding-left: 10px;
+  font-weight: bold;
+  }
+
+.pro-exp{
+box-sizing: border-box;
+width: 100%;
+border: solid black 5px;
+padding: 5px;
 }
 
 
 .edu-section{
-  border-top:1px solid;
-  border-bottom:1px solid;
+box-sizing: border-box;
+width: 100%;
+border: solid black 5px;
+padding: 5px;
 }
-
 
 
 
