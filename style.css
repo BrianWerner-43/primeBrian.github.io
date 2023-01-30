@@ -17,7 +17,7 @@ italic{
 
 
 .pro-exp{
- text-transform: uppercase;
+ text-transform: uppercase solid;
  text-align: center;
  background-color: white; 
  box-sizing: border-box;
@@ -28,12 +28,12 @@ italic{
 
 
 .edu-section{
- text-transform: uppercase;
+ text-transform: uppercase solid;
+ text-align: center;
  background-color: white; 
  box-sizing: border-box;
  width: 60%;
  border: solid black 2px;
  padding-left: 5px;
 }
-
 
